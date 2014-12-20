@@ -1,4 +1,4 @@
-# hubot-otsukare-yamero
+# hubot-otsukare-yamero [![Build Status][travis-image]][travis-url]
 
 『お疲れ様です』って聞こえたら『やめろ』って答えるやつ
 
@@ -28,3 +28,6 @@ hubot>> やめろ
 ## Reference
 
 https://twitter.com/rosylilly/status/545491798907318272
+
+[travis-url]: https://travis-ci.org/prototype-cafe/hubot-otsukare-yamero
+[travis-image]: https://travis-ci.org/prototype-cafe/hubot-otsukare-yamero.svg?branch=master
