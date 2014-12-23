@@ -4,13 +4,13 @@
   "version": "0.0.0",
   "author": "knjcode <knjcode@gmail.com>",
   "license": "MIT",
-  "keywords": "hubot, hubot-scripts",
+  "keywords": "hubot, hubot-scripts, joke",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-otsukare-yamero.git"
+    "url": "git://github.com/prototype-cafe/hubot-otsukare-yamero.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-otsukare-yamero/issues"
+    "url": "https://github.com/prototype-cafe/hubot-otsukare-yamero/issues"
   },
   "dependencies": {},
   "peerDependencies": {
