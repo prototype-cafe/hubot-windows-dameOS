@@ -8,5 +8,5 @@
 #   highwide <hochweit728@gmail.com>
 
 module.exports = (robot) ->
-  robot.hear /(W|w)indows/, (msg) ->
+  robot.hear /windows/, (msg) ->
     msg.send "ダメなOS"
