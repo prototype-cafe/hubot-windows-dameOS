@@ -1,16 +1,16 @@
 {
-  "name": "hubot-otsukare-yamero",
-  "description": "『お疲れ様です』って聞こえたら『やめろ』って答えるやつ",
+  "name": "hubot-windows-dameOS",
+  "description": "『Windows』って聞こえたら『ダメなOS』って答えるやつ",
   "version": "0.0.0",
-  "author": "knjcode <knjcode@gmail.com>",
+  "author": "highwide <hochweit728@gmail.com",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts, joke",
   "repository": {
     "type": "git",
-    "url": "git://github.com/prototype-cafe/hubot-otsukare-yamero.git"
+    "url": "https://github.com/prototype-cafe/hubot-windows-dameOS"
   },
   "bugs": {
-    "url": "https://github.com/prototype-cafe/hubot-otsukare-yamero/issues"
+    "url": "https://github.com/prototype-cafe/hubot-windows-dameOS/issues"
   },
   "dependencies": {},
   "peerDependencies": {
